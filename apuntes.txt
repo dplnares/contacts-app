@@ -1,0 +1,1 @@
+Para un código más legible, se necesita poner <?=, luego de usar <?php para reconocer las variables, además se puede usar foreach() : endforeach en el caso de que lo que escribamos dentro del bucle sea extenso.
